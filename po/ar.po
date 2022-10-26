@@ -19,114 +19,114 @@ msgstr ""
 #: data/org.vanillaos.ControlCenter.desktop.in:3 src/gtk/window.ui:7
 #: src/gtk/window.ui:16 src/main.py:59
 msgid "Vanilla OS Control Center"
-msgstr ""
+msgstr "مركز تحكم فانيلا"
 
 #: data/org.vanillaos.ControlCenter.appdata.xml.in:7
 msgid "No description"
-msgstr ""
+msgstr "بدون وصف"
 
 #: src/gtk/dialog-installation.ui:6
 msgid "Installation"
-msgstr ""
+msgstr "تثبيت"
 
 #: src/gtk/dialog-installation.ui:21
 msgid "Installation in Progress…"
-msgstr ""
+msgstr "...جاري التثبيت"
 
 #: src/gtk/dialog-installation.ui:22
 msgid "This may take a while, based on your internet connection speed."
-msgstr ""
+msgstr ".قد يستغرق هذا بعض الوقت، اعتمادا على سرعة الإنترنت"
 
 #: src/gtk/help-overlay.ui:11
 msgctxt "shortcut window"
 msgid "General"
-msgstr ""
+msgstr "عام"
 
 #: src/gtk/help-overlay.ui:14
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr ""
+msgstr "عرض الاختصارات"
 
 #: src/gtk/help-overlay.ui:20
 msgctxt "shortcut window"
 msgid "Quit"
-msgstr ""
+msgstr "إلغاء"
 
 #: src/gtk/window.ui:27
 msgid "Apply Changes"
-msgstr ""
+msgstr "تطبيق التعديلات"
 
 #: src/gtk/window.ui:44
 msgid "Drivers"
-msgstr ""
+msgstr "التعريفات"
 
 #: src/gtk/window.ui:54
 msgid "Loading drivers…"
-msgstr ""
+msgstr "...جاري تحميل التعريفات"
 
 #: src/gtk/window.ui:55
 msgid "Please wait while the available drivers are being loaded."
-msgstr ""
+msgstr ".يرجى الانتضار ريثما يتم تحميل التعريفات المتاحة"
 
 #: src/gtk/window.ui:70
 msgid "Immutability"
-msgstr ""
+msgstr "عدم قابلية التغيير"
 
 #: src/gtk/window.ui:76
 msgid "Preferences"
-msgstr ""
+msgstr "التفضيلات"
 
 #: src/gtk/window.ui:79
 msgid "Immutability Status (current session)"
-msgstr ""
+msgstr "(الجلسة الحالية) حالة عدم قابلية التغيير"
 
 #: src/gtk/window.ui:80
 msgid "Immutability is currently in Read and Write mode."
-msgstr ""
+msgstr ".عدم قابلية التغيير حاليا في وضع القراءة والكتابة"
 
 #: src/gtk/window.ui:90
 msgid "Restore on Reboot"
-msgstr ""
+msgstr "استعادة عند إعادة التشغيل"
 
 #: src/gtk/window.ui:91
 msgid "Choose whether to restore the default mode after a system reboot."
-msgstr ""
+msgstr ".اختر ما إذا كنت تريد استعادة الوضع الافتراضي بعد إعادة تشغيل النظام"
 
 #: src/gtk/window.ui:101
 msgid "Default Mode"
-msgstr ""
+msgstr "الوضع الافتراضي"
 
 #: src/gtk/window.ui:102
 msgid "Choose which mode to use by default."
-msgstr ""
+msgstr ".اختر الوضع الذي تريد استخدامه بشكل افتراضي"
 
 #: src/gtk/window.ui:106
 msgid "Read Only"
-msgstr ""
+msgstr "للقراءة فقط"
 
 #: src/gtk/window.ui:107
 msgid "Read and Write"
-msgstr ""
+msgstr "للقراءة والكتابة"
 
 #: src/gtk/window.ui:117
 msgid "Overlays"
-msgstr ""
+msgstr "التراكبات"
 
 #: src/gtk/window.ui:118
 msgid "Not Implemented yet."
-msgstr ""
+msgstr ".لم يتم تنفيذ شيء"
 
 #: src/gtk/window.ui:137
 msgid "Sub System"
-msgstr ""
+msgstr "النظام الفرعي"
 
 #: src/gtk/window.ui:143
 msgid "Installed Applications"
-msgstr ""
+msgstr "التطبيقات المثبتة"
 
 #: src/gtk/window.ui:160
 msgid "_About Control-panel"
-msgstr ""
+msgstr  "حول مركز التحكم_"
 
 #: src/main.py:66
 msgid "Translators"
@@ -134,64 +134,64 @@ msgstr ""
 
 #: src/window.py:86
 msgid "No Drivers Found."
-msgstr ""
+msgstr ".لم يتم العثور على أية تعريفات"
 
 #: src/window.py:87
 msgid "No drivers found for your devices or an error occurred."
-msgstr ""
+msgstr ".لم يتم العثور على أية تعريفات لنظامك أو حدث خطأ ما"
 
 #: src/window.py:117
 msgid "Installation Failed."
-msgstr ""
+msgstr ".فشل التثبيت"
 
 #: src/window.py:122
 msgid "New Drivers Installed."
-msgstr ""
+msgstr ".تم تثبيت تعريفات جديدة"
 
 #: src/window.py:154
 msgid "Failed to Set Immutability Status."
-msgstr ""
+msgstr ".فشل تعيين حالة عدم قابلية التغيير"
 
 #: src/window.py:159
 msgid "Immutability Enabled."
-msgstr ""
+msgstr ".تفعيل عدم قابلية التغيير"
 
 #: src/window.py:159
 msgid "Immutability Disabled."
-msgstr ""
+msgstr ".تعطيل عدم قابلية التغيير"
 
 #: src/window.py:176
 msgid "Persistent Mode Enabled."
-msgstr ""
+msgstr ".تفعيل الوضع المستمر"
 
 #: src/window.py:176
 msgid "Persistent Mode Disabled."
-msgstr ""
+msgstr ".تعطيل الوضع المستمر"
 
 #: src/window.py:188
 msgid "Failed to Set Default Mode."
-msgstr ""
+msgstr ".فشل تحديد الوضع الافتراضي"
 
 #: src/window.py:194
 msgid "Default Mode Changed to {}."
-msgstr ""
+msgstr ".{} تغيير الوضع الافتراضي ل"
 
 #: src/window.py:195
 msgid "Read-Only"
-msgstr ""
+msgstr "للقراءة فقط"
 
 #: src/window.py:195
 msgid "Read-Write"
-msgstr ""
+msgstr "للقراءة والكتابة"
 
 #: src/window.py:220
 msgid "{} Exited With Error."
-msgstr ""
+msgstr ".تم الخروج من {} بسبب وجود خطأ"
 
 #: src/window.py:223
 msgid "{} Exited."
-msgstr ""
+msgstr "{} .تم الخروج من"
 
 #: src/window.py:226
 msgid "{} Launched."
-msgstr ""
+msgstr "{} تم تشغيل"
