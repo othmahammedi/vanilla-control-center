@@ -70,7 +70,7 @@ msgstr ".يرجى الانتضار ريثما يتم تحميل التعريفا
 
 #: src/gtk/window.ui:70
 msgid "Immutability"
-msgstr "عدم قابلية التغيير"
+msgstr "الثبات"
 
 #: src/gtk/window.ui:76
 msgid "Preferences"
@@ -78,11 +78,11 @@ msgstr "التفضيلات"
 
 #: src/gtk/window.ui:79
 msgid "Immutability Status (current session)"
-msgstr "(الجلسة الحالية) حالة عدم قابلية التغيير"
+msgstr "(الجلسة الحالية) حالة الثبات"
 
 #: src/gtk/window.ui:80
 msgid "Immutability is currently in Read and Write mode."
-msgstr ".عدم قابلية التغيير حاليا في وضع القراءة والكتابة"
+msgstr ".الثبات حاليا في وضع القراءة والكتابة"
 
 #: src/gtk/window.ui:90
 msgid "Restore on Reboot"
@@ -150,15 +150,15 @@ msgstr ".تم تثبيت تعريفات جديدة"
 
 #: src/window.py:154
 msgid "Failed to Set Immutability Status."
-msgstr ".فشل تعيين حالة عدم قابلية التغيير"
+msgstr ".فشل تعيين حالة الثبات"
 
 #: src/window.py:159
 msgid "Immutability Enabled."
-msgstr ".تفعيل عدم قابلية التغيير"
+msgstr ".تفعيل الثبات"
 
 #: src/window.py:159
 msgid "Immutability Disabled."
-msgstr ".تعطيل عدم قابلية التغيير"
+msgstr ".تعطيل الثبات"
 
 #: src/window.py:176
 msgid "Persistent Mode Enabled."
