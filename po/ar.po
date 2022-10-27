@@ -23,7 +23,7 @@ msgstr "مركز تحكم فانيلا"
 
 #: data/org.vanillaos.ControlCenter.appdata.xml.in:7
 msgid "No description"
-msgstr "بدون وصف"
+msgstr "دون وصف"
 
 #: src/gtk/dialog-installation.ui:6
 msgid "Installation"
@@ -66,7 +66,7 @@ msgstr "...جاري تحميل التعريفات"
 
 #: src/gtk/window.ui:55
 msgid "Please wait while the available drivers are being loaded."
-msgstr ".يرجى الانتضار ريثما يتم تحميل التعريفات المتاحة"
+msgstr ".يرجى الانتظار ريثما يتم تحميل التعريفات المتاحة"
 
 #: src/gtk/window.ui:70
 msgid "Immutability"
